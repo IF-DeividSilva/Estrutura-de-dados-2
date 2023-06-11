@@ -1,0 +1,1 @@
+python3 ap3.py input1.txt  saida.txt 
