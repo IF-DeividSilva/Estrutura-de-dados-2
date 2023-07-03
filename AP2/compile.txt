@@ -1,0 +1,1 @@
+python3 2.py games.txt  saida0.txt saida1.txt saida2.txt saida3.txt
